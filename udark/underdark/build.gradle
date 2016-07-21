@@ -28,7 +28,7 @@ buildscript {
 
 android {
     compileSdkVersion 22
-    buildToolsVersion "22.0.1"
+    buildToolsVersion "23.0.3"
     resourcePrefix "underdark__"
 
     // http://stackoverflow.com/a/24910671/1449965
